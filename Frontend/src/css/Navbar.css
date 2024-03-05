@@ -1,0 +1,11 @@
+nav{
+    background-color: #fff1f8;
+    width: 100%;
+    position:relative;
+    top: 0%;
+    z-index: 99;
+}
+.size{
+    width: 3rem;
+    height: 3rem;
+}

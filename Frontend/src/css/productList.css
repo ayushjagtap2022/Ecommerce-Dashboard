@@ -1,0 +1,26 @@
+
+.product-list{
+    text-align: center;
+    margin-top: 50px;
+}
+.pl-li{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    width: 180px;
+}
+.search-bar{
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    border:1px solid #b02369;
+    outline: none;
+}
+.pl-ul{
+    margin-top: -22px;
+}
+.pro-list{
+    margin-bottom: 1.5rem;
+}
+.de-product{
+    line-height: 1rem;
+}
